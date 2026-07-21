@@ -1,37 +1,27 @@
-<h1 align="center">Hi 👋, ich bin Dawid Makowski</h1>
-<p align="center">
-  Wirtschaftsinformatik · Aachen 🇩🇪<br>
-  <em>Die Schnittstelle von IT & Wirtschaft</em>
-</p>
+# Hey there 👋
 
 <p align="center">
-  <a href="https://dawid-makowski.de">
-    <img src="https://img.shields.io/badge/Website-dawid--makowski.de-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="mailto:dawid.makowski@outlook.de">
-    <img src="https://img.shields.io/badge/E--Mail-Kontakt-EA4335?style=for-the-badge&logo=maildotru&logoColor=white">
-  </a>
-</p>
-
-
-
-### Tech & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&hide_border=true&theme=default&title_color=2563eb&icon_color=2563eb">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&hide_border=true&theme=default&title_color=2563eb">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hello+world!;Wirtschaftsinformatik+%26+IT;FH+Aachen" alt="Typing SVG">
 </p>
 
 ---
 
+Informatikstudent an der FH Aachen. Interessiert an der Schnittstelle
+von IT und Wirtschaft — digitale Prozesse, Datenschutz, C++.
+
+- 🌱 Lerne gerade **C++**
+- 🔐 Zertifizierter Datenschutzbeauftragter (DEKRA)
+- 🌐 [dawid-makowski.de](https://dawid-makowski.de)
+
+### Tech
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEINUSERNAME&color=2563eb&style=flat-square&label=Profilaufrufe">
+  <sub>Visitor count</sub><br>
+  <img src="https://profile-counter.glitch.me/DEINUSERNAME/count.svg">
 </p>
