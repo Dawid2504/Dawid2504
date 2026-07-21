@@ -1,7 +1,7 @@
 # Hey there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hello+world!;Wirtschaftsinformatik+%26+IT;FH+Aachen" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=45&lines=Hello+world!;Wirtschaftsinformatik+%26+IT;FH+Aachen" alt="Typing SVG">
 </p>
 
 ---
@@ -26,6 +26,5 @@ von IT und Wirtschaft — digitale Prozesse, Datenschutz, Webentwicklung.
 <br>
 
 <p align="center">
-  <sub>Visitor count</sub><br>
-  <img src="https://visitcount.itsvg.in/api?id=DEINUSERNAME&icon=0&color=0">
+  <img src="https://komarev.com/ghpvc/?username=Dawid2504&color=2563eb&style=flat-square&label=Profilaufrufe">
 </p>
