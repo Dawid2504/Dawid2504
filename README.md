@@ -12,6 +12,7 @@ von IT und Wirtschaft — digitale Prozesse, Datenschutz, Webentwicklung.
 - 🌱 Lerne gerade **Python** und **JavaScript**
 - 🔐 Zertifizierter Datenschutzbeauftragter (DEKRA)
 - 🌐 [dawid-makowski.de](https://dawid-makowski.de)
+- ☁ [wetter.dawid-makowski.de](https://wetter.dawid-makowski.de)
 
 ### Tech
 
