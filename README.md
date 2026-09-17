@@ -1,12 +1,12 @@
 # Hey there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=45&lines=Hello+world!;Informatik+%26+IT;FH+Aachen" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=45&lines=Hello+world!;Wirtschaftsinformatik;FH+Aachen" alt="Typing SVG">
 </p>
 
 ---
 
-Informatikstudent an der FH Aachen. Interessiert an der Schnittstelle
+Wirtschaftsinformatik-Studierender an der FH Aachen. Interessiert an der Schnittstelle
 von IT und Wirtschaft — digitale Prozesse, Datenschutz, Webentwicklung.
 
 - 🌱 Lerne gerade **Python** und **JavaScript**
