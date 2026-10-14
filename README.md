@@ -1,5 +1,5 @@
 # 💫 About Me:
-Wirtschaftsinformatik-Studierender an der FH Aachen. Interessiert an der Schnittstelle von IT und Wirtschaft — digitale Prozesse, Datenschutz, Webentwicklung.<br><br>    🌱 Lerne gerade Python und JavaScript<br>    🔐 Zertifizierter Datenschutzbeauftragter (DEKRA)<br>    🌐 dawid-makowski.de<br>     ☁ wetter.dawid-makowski.de<br>
+Wirtschaftsinformatik-Studierender an der FH Aachen. Interessiert an der Schnittstelle von IT und Wirtschaft — digitale Prozesse, Datenschutz, Webentwicklung.<br><br>    🌱 Lerne gerade Python und JavaScript<br>    🔐 Zertifizierter Datenschutzbeauftragter (DEKRA)<br>    🌐 [dawid-makowski.de](https://dawid-makowski.de)<br> ☁️ [wetter.dawid-makowski.de](https://wetter.dawid-makowski.de)<br>
 
 
 # 💻 Tech Stack:
