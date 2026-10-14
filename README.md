@@ -1,31 +1,13 @@
-# Hey there 👋
+# 💫 About Me:
+Wirtschaftsinformatik-Studierender an der FH Aachen. Interessiert an der Schnittstelle von IT und Wirtschaft — digitale Prozesse, Datenschutz, Webentwicklung.<br><br>    🌱 Lerne gerade Python und JavaScript<br>    🔐 Zertifizierter Datenschutzbeauftragter (DEKRA)<br>    🌐 dawid-makowski.de<br>     ☁ wetter.dawid-makowski.de<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=45&lines=Hello+world!;Wirtschaftsinformatik;FH+Aachen" alt="Typing SVG">
-</p>
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username= Dawid2504&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user= Dawid2504&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username= Dawid2504&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-Wirtschaftsinformatik-Studierender an der FH Aachen. Interessiert an der Schnittstelle
-von IT und Wirtschaft — digitale Prozesse, Datenschutz, Webentwicklung.
-
-- 🌱 Lerne gerade **Python** und **JavaScript**
-- 🔐 Zertifizierter Datenschutzbeauftragter (DEKRA)
-- 🌐 [dawid-makowski.de](https://dawid-makowski.de)
-- ☁ [wetter.dawid-makowski.de](https://wetter.dawid-makowski.de)
-
-### Tech
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dawid2504&color=2563eb&style=flat-square&label=Profilaufrufe">
-</p>
+[![](https://komarev.com/ghpvc/?username= Dawid2504&icon=0&color=0)](https://visitcount.itsvg.in)
